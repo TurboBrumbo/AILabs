@@ -6,4 +6,4 @@
 * Пятая: `LR4-5`
 ## Все работы выполнены в IDE PyCharm, визуализация результатов выполнения программ представлена в [гугл-документе](https://docs.google.com/document/d/1MyBdeIIEsEQqz76srq28XqHZQBBmw4iRxsKZSYInv5M/edit?usp=sharing)
 # Курсовая работа
-['Coursework'] - Юпитер ноутбук с выполненной работой
+`Coursework` - Юпитер ноутбук с выполненной работой
