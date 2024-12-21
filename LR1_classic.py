@@ -73,7 +73,6 @@ plt.show()
 
 
 # Визуализация траектории на плоскости (x, y)
-#plt.figure(figsize=(-10, 10))
 plt.plot(x_vals, y_vals, 'o-', label='Траектория', markersize=3)
 plt.xlabel('x')
 plt.ylabel('y')
