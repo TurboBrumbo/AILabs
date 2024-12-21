@@ -1,5 +1,5 @@
 # Лабораторные работы
-* Первая: ['LR1_classic'](#), ['LR1_user_defined_grad'](#), ['LR1_moment_mod'](#), ['LR1_adaptive_mod'](#), ['LR1_evo_method'](#)
+* Первая: `LR1_classic`, ['LR1_user_defined_grad'](#), ['LR1_moment_mod'](#), ['LR1_adaptive_mod'](#), ['LR1_evo_method'](#)
 * Вторая: ['LR2_pygmo'](#)
 * Третья: ['LR3_pygmo'](#)
 * Четвертая: ['LR4-5'](#)
